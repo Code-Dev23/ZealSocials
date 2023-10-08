@@ -1,0 +1,26 @@
+name: ZealSocials
+version: '0'
+main: it.codedevv.zealsocials.Social
+api-version: '1.20'
+author: CodeDevv_
+commands:
+  zealsocials:
+  createsocial:
+  deletesocial:
+  setsociallink:
+    aliases:
+      - setsocialink
+  social:
+    aliases:
+      - socials
+      - links
+  discord:
+    aliases:
+      - ds
+  instagram:
+    aliases:
+      - ig
+  tiktok:
+  youtube:
+    aliases:
+      - yt

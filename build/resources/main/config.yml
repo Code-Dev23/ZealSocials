@@ -1,0 +1,49 @@
+no-permission: "&cNon hai il permesso per eseguire questo comando."
+
+messages:
+  prefix: "&x&0&0&8&d&9&2&lꜱ&x&0&0&9&c&a&4&lᴏ&x&0&0&a&a&b&6&lᴄ&x&0&0&b&9&c&8&lɪ&x&0&0&c&8&d&9&lᴀ&x&0&0&d&6&e&b&lʟ&x&0&0&e&5&f&d&lꜱ &8&l➜"
+  socials:
+    - "&8&m-----------------------------------------"
+    - "%prefix% &fEcco qui tutti i nostri socials!"
+    - " &3• &x&0&0&1&0&f&fD&x&0&f&2&a&f&fi&x&1&d&4&3&f&fs&x&2&c&5&d&f&fc&x&3&b&7&6&f&fo&x&4&9&9&0&f&fr&x&5&8&a&9&f&fd&7: https://discord.gg/7RrNC3Sp" # DISCORD
+    - " &3• &x&4&f&5&b&d&5I&x&7&3&4&5&c&an&x&9&6&2&f&b&fs&x&b&6&2&c&9&bt&x&d&6&2&9&7&6a&x&e&8&5&4&4&ag&x&f&a&7&e&1&er&x&f&c&a&c&4&aa&x&f&e&d&a&7&5m&7: https://www.instagram.com/regnodizeal/" # INSTAGRAM
+    - " &3• &0Tik&fTok&7: https://www.tiktok.com/@regnodizeal" # TIKTOK
+    - " &3• &x&9&a&0&0&0&0Y&x&a&b&0&0&0&0o&x&b&c&0&0&0&0u&x&c&d&0&0&0&0T&x&d&d&0&0&0&0u&x&e&e&0&0&0&0b&x&f&f&0&0&0&0e&7: https://www.youtube.com/@regnodizeal" # YOUTUBE
+    - "&8&m-----------------------------------------"
+  discord:
+    - "&8&m-----------------------------------------"
+    - "%prefix% &fEcco qui il nostro Discord!"
+    - " &3• &x&0&0&1&0&f&fD&x&0&f&2&a&f&fi&x&1&d&4&3&f&fs&x&2&c&5&d&f&fc&x&3&b&7&6&f&fo&x&4&9&9&0&f&fr&x&5&8&a&9&f&fd&7: https://discord.gg/7RrNC3Sp" # DISCORD
+    - "&8&m-----------------------------------------"
+  instagram:
+    - "&8&m-----------------------------------------"
+    - "%prefix% &fEcco qui il nostro Instagram!"
+    - " &3• &x&4&f&5&b&d&5I&x&7&3&4&5&c&an&x&9&6&2&f&b&fs&x&b&6&2&c&9&bt&x&d&6&2&9&7&6a&x&e&8&5&4&4&ag&x&f&a&7&e&1&er&x&f&c&a&c&4&aa&x&f&e&d&a&7&5m&7: https://www.instagram.com/regnodizeal/" # INSTAGRAM
+    - "&8&m-----------------------------------------"
+  tiktok:
+    - "&8&m-----------------------------------------"
+    - "%prefix% &fEcco qui il nostro TikTok!"
+    - " &3• &0Tik&fTok&7: https://www.tiktok.com/@regnodizeal" # TIKTOK
+    - "&8&m-----------------------------------------"
+  youtube:
+    - "&8&m-----------------------------------------"
+    - "%prefix% &fEcco qui il nostro YouTube!"
+    - " &3• &x&9&a&0&0&0&0Y&x&a&b&0&0&0&0o&x&b&c&0&0&0&0u&x&c&d&0&0&0&0T&x&d&d&0&0&0&0u&x&e&e&0&0&0&0b&x&f&f&0&0&0&0e&7: https://www.youtube.com/@regnodizeal" # YOUTUBE
+    - "&8&m-----------------------------------------"
+  format-message:
+    - "&8&m-----------------------------------------"
+    - "%prefix% &fSeguici sul nostro &b%social%&f,"
+    - "&fattraverso il seguente link!"
+    - " &3• &7%link%"
+    - "&8&m-----------------------------------------"
+  help-message:
+    - "&8&l➜ &fRunning &3Zeal&bSocials &fcreated by &3CodeDevv_ &7(v.1.0)"
+    - "&8&l➜ &x&0&0&6&a&6&7&lI&x&0&0&9&b&9&7&ln&x&0&0&c&c&c&7&lf&x&0&0&f&d&f&7&lo"
+    - "&b» &3/createsocial <name> &8| &7Crea un social. Ricordati di guardare un blocco! (Testa)"
+    - "&b» &3/deletesocial <name> &8| &7Elimina un soial."
+    - "&b» &3/setsociallink <name> <link> &8| &7Configura il link di un social."
+    - "&b» &3/zealsocials reload &8| &7Aggiorna il config file del plugin."
+  reload-message: "&aReload eseguito con successo."
+  info-message: "&8&l➜ &fRunning &3Zeal&bSocials &fcreated by &3CodeDevv_ &7(v.1.0)"
+
+socials:
